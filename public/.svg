@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Fondo redondeado -->
+  <rect width="64" height="64" rx="14" fill="#2563EB"/>
+  <!-- Corazón estilizado -->
+  <path d="M32 50c-6.5-5.5-10.9-9.6-13.2-12.7C16 35 15 32.8 15 30.5 15 26.9 17.9 24 21.5 24c1.9 0 3.8.8 5.1 2.2L32 31l5.4-4.8C38.7 24.8 40.6 24 42.5 24 46.1 24 49 26.9 49 30.5c0 2.3-1 4.5-3.8 6.8C42.9 40.4 38.5 44.5 32 50z" fill="#FDE68A"/>
+  <!-- Barras dentro del corazón -->
+  <rect x="24" y="33" width="4" height="10" rx="1.5" fill="#2563EB"/>
+  <rect x="30" y="30" width="4" height="13" rx="1.5" fill="#1E40AF"/>
+  <rect x="36" y="27" width="4" height="16" rx="1.5" fill="#1D4ED8"/>
+</svg>
